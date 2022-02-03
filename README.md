@@ -1,4 +1,4 @@
-# Hi there, 👋 I'm Claudia Patricia:
+# Hi there, 👋 I'm Claudia :
 
 Professor and researcher at the Universidad Cooperativa de Colombia. Dr. Delgado has published more than 120 papers in peer-reviewed journals.
 
