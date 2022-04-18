@@ -1,6 +1,6 @@
 # Hi there, 👋 I'm Claudia :
 
-Professor and researcher at the Universidad Cooperativa de Colombia. Dr. Delgado has published more than 120 papers in peer-reviewed journals.
+Professor and researcher at the Corporación Universitaria Minuto de Dios. Prof. Ortiz has published more than 20 papers in peer-reviewed journals.
 
 ## Programming Languages
 - <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white"  height="20"/> &nbsp; <img alt="R" src="https://img.shields.io/badge/R-%23276DC3.svg?&style=flat&logo=r&logoColor=white" height="20"/> &nbsp;<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white" height="20"/> &nbsp;<img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=flat&logo=latex&logoColor=white" height="20" />&nbsp;<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=flat&logo=markdown&logoColor=white" height="20" />
